@@ -16,7 +16,7 @@ The workflow can create a hidden file in your home directory called .bcleft. Whe
 <code>bcomp file1</code></li>
 <li><p>Select <code>file1</code> for the left panel, and compare it with <code>file2</code2></p>
 <code>bcleft file1</code><br/>
-<code>bccomp file2</code></li>
+<code>bcomp file2</code></li>
 </ul>
 
 <h3>Usage as a file action</h3>
