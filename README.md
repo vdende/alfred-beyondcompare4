@@ -14,7 +14,7 @@ The workflow can create a hidden file in your home directory called .bcleft. Whe
 <ul>
 <li><p>Open <code>file1</code> in Beyond Compare</p>
 <code>bcomp file1</code></li>
-<li><p>Select <code>file1</code> for the left panel, and compare it with <code>file2</code2></p>
+<li><p>Select <code>file1</code> for the left panel, and compare it with <code>file2</code></p>
 <code>bcleft file1</code><br/>
 <code>bcomp file2</code></li>
 </ul>
